@@ -1,6 +1,6 @@
 # (ᵔ◡ᵔ) Welcome to my github!
 
-Here I host small scripts and programs in progress. It's practically a museum to my journeys in biology!
+Here I host small scripts, programs from my coursework, and programs in progress for my research. It's practically a museum to my journeys in biology!
 
 <!--
 **dylansosa/dylansosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
