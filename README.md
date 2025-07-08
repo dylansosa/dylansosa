@@ -2,10 +2,8 @@
 
 Here I host small scripts, programs from my coursework, and programs in progress for my research.
 
-<a href="https://github.com/dylansosa/GitHub-Language-Stats">
-<img src="https://github.com/dylansosa/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/dylansosa/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+![](https://raw.githubusercontent.com/dylansosa/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/dylansosa/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **dylansosa/dylansosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
